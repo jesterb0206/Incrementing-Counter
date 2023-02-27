@@ -15,11 +15,11 @@
 
 <br>
 
-![Incrementing Counter]()
+![Incrementing Counter](images/incrementing-counter.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Incrementing-Counter/)
 
 <br>
 
